@@ -1,0 +1,14 @@
+/Users/artyomyeprikyan/Downloads/WeatherApplication/WeatherApplication.Data/bin/Release/net7.0/WeatherApplication.Data.deps.json
+/Users/artyomyeprikyan/Downloads/WeatherApplication/WeatherApplication.Data/bin/Release/net7.0/WeatherApplication.Data.runtimeconfig.json
+/Users/artyomyeprikyan/Downloads/WeatherApplication/WeatherApplication.Data/bin/Release/net7.0/WeatherApplication.Data.dll
+/Users/artyomyeprikyan/Downloads/WeatherApplication/WeatherApplication.Data/bin/Release/net7.0/WeatherApplication.Data.pdb
+/Users/artyomyeprikyan/Downloads/WeatherApplication/WeatherApplication.Data/obj/Release/net7.0/WeatherApplication.Data.csproj.AssemblyReference.cache
+/Users/artyomyeprikyan/Downloads/WeatherApplication/WeatherApplication.Data/obj/Release/net7.0/WeatherApplication.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artyomyeprikyan/Downloads/WeatherApplication/WeatherApplication.Data/obj/Release/net7.0/WeatherApplication.Data.AssemblyInfoInputs.cache
+/Users/artyomyeprikyan/Downloads/WeatherApplication/WeatherApplication.Data/obj/Release/net7.0/WeatherApplication.Data.AssemblyInfo.cs
+/Users/artyomyeprikyan/Downloads/WeatherApplication/WeatherApplication.Data/obj/Release/net7.0/WeatherApplication.Data.csproj.CoreCompileInputs.cache
+/Users/artyomyeprikyan/Downloads/WeatherApplication/WeatherApplication.Data/obj/Release/net7.0/WeatherApplication.Data.dll
+/Users/artyomyeprikyan/Downloads/WeatherApplication/WeatherApplication.Data/obj/Release/net7.0/refint/WeatherApplication.Data.dll
+/Users/artyomyeprikyan/Downloads/WeatherApplication/WeatherApplication.Data/obj/Release/net7.0/WeatherApplication.Data.pdb
+/Users/artyomyeprikyan/Downloads/WeatherApplication/WeatherApplication.Data/obj/Release/net7.0/WeatherApplication.Data.genruntimeconfig.cache
+/Users/artyomyeprikyan/Downloads/WeatherApplication/WeatherApplication.Data/obj/Release/net7.0/ref/WeatherApplication.Data.dll
