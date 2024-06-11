@@ -1,0 +1,307 @@
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/appsettings.Development.json
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/appsettings.json
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/WeatherApplication.staticwebassets.runtime.json
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/WeatherApplication
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/WeatherApplication.deps.json
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/WeatherApplication.runtimeconfig.json
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/WeatherApplication.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/WeatherApplication.pdb
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Azure.Core.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Azure.Identity.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Humanizer.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/System.CodeDom.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/WeatherApplication.Data.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/bin/Debug/net8.0/WeatherApplication.Data.pdb
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/obj/Debug/net8.0/WeatherApplication.csproj.AssemblyReference.cache
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/obj/Debug/net8.0/WeatherApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/obj/Debug/net8.0/WeatherApplication.AssemblyInfoInputs.cache
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/obj/Debug/net8.0/WeatherApplication.AssemblyInfo.cs
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/obj/Debug/net8.0/WeatherApplication.csproj.CoreCompileInputs.cache
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/obj/Debug/net8.0/WeatherApplication.MvcApplicationPartsAssemblyInfo.cache
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/obj/Debug/net8.0/staticwebassets.build.json
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/obj/Debug/net8.0/staticwebassets.development.json
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/obj/Debug/net8.0/staticwebassets/msbuild.WeatherApplication.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/obj/Debug/net8.0/staticwebassets/msbuild.build.WeatherApplication.props
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WeatherApplication.props
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WeatherApplication.props
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/obj/Debug/net8.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/obj/Debug/net8.0/scopedcss/Components/Layout/NavMenu.razor.rz.scp.css
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/obj/Debug/net8.0/scopedcss/bundle/WeatherApplication.styles.css
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/obj/Debug/net8.0/scopedcss/projectbundle/WeatherApplication.bundle.scp.css
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/obj/Debug/net8.0/WeatherA.58898938.Up2Date
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/obj/Debug/net8.0/WeatherApplication.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/obj/Debug/net8.0/refint/WeatherApplication.dll
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/obj/Debug/net8.0/WeatherApplication.pdb
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/obj/Debug/net8.0/WeatherApplication.genruntimeconfig.cache
+/Users/sedakirakosyan/RiderProjects/WeatherApplication/WeatherApplication/obj/Debug/net8.0/ref/WeatherApplication.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/appsettings.Development.json
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/appsettings.json
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/WeatherApplication.staticwebassets.runtime.json
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/WeatherApplication
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/WeatherApplication.deps.json
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/WeatherApplication.runtimeconfig.json
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/WeatherApplication.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/WeatherApplication.pdb
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Azure.Core.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Azure.Identity.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Humanizer.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/System.CodeDom.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/WeatherApplication.Data.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/WeatherApplication.Data.pdb
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/obj/Debug/net8.0/WeatherApplication.csproj.AssemblyReference.cache
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/obj/Debug/net8.0/WeatherApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/obj/Debug/net8.0/WeatherApplication.AssemblyInfoInputs.cache
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/obj/Debug/net8.0/WeatherApplication.AssemblyInfo.cs
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/obj/Debug/net8.0/WeatherApplication.csproj.CoreCompileInputs.cache
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/obj/Debug/net8.0/WeatherApplication.MvcApplicationPartsAssemblyInfo.cache
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/obj/Debug/net8.0/staticwebassets.build.json
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/obj/Debug/net8.0/staticwebassets.development.json
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/obj/Debug/net8.0/staticwebassets/msbuild.WeatherApplication.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/obj/Debug/net8.0/staticwebassets/msbuild.build.WeatherApplication.props
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WeatherApplication.props
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WeatherApplication.props
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/obj/Debug/net8.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/obj/Debug/net8.0/scopedcss/Components/Layout/NavMenu.razor.rz.scp.css
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/obj/Debug/net8.0/scopedcss/bundle/WeatherApplication.styles.css
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/obj/Debug/net8.0/scopedcss/projectbundle/WeatherApplication.bundle.scp.css
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/obj/Debug/net8.0/WeatherA.58898938.Up2Date
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/obj/Debug/net8.0/WeatherApplication.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/obj/Debug/net8.0/refint/WeatherApplication.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/obj/Debug/net8.0/WeatherApplication.pdb
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/obj/Debug/net8.0/WeatherApplication.genruntimeconfig.cache
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/obj/Debug/net8.0/ref/WeatherApplication.dll
+/Users/sedakirakosyan/Downloads/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/appsettings.Development.json
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/appsettings.json
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/WeatherApplication.staticwebassets.runtime.json
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/WeatherApplication
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/WeatherApplication.deps.json
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/WeatherApplication.runtimeconfig.json
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/WeatherApplication.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/WeatherApplication.pdb
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Azure.Core.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Azure.Identity.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Humanizer.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/System.CodeDom.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/WeatherApplication.Data.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/bin/Debug/net8.0/WeatherApplication.Data.pdb
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/obj/Debug/net8.0/WeatherApplication.csproj.AssemblyReference.cache
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/obj/Debug/net8.0/WeatherApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/obj/Debug/net8.0/WeatherApplication.AssemblyInfoInputs.cache
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/obj/Debug/net8.0/WeatherApplication.AssemblyInfo.cs
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/obj/Debug/net8.0/WeatherApplication.csproj.CoreCompileInputs.cache
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/obj/Debug/net8.0/WeatherApplication.MvcApplicationPartsAssemblyInfo.cache
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/obj/Debug/net8.0/staticwebassets.build.json
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/obj/Debug/net8.0/staticwebassets.development.json
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/obj/Debug/net8.0/staticwebassets/msbuild.WeatherApplication.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/obj/Debug/net8.0/staticwebassets/msbuild.build.WeatherApplication.props
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WeatherApplication.props
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WeatherApplication.props
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/obj/Debug/net8.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/obj/Debug/net8.0/scopedcss/Components/Layout/NavMenu.razor.rz.scp.css
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/obj/Debug/net8.0/scopedcss/bundle/WeatherApplication.styles.css
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/obj/Debug/net8.0/scopedcss/projectbundle/WeatherApplication.bundle.scp.css
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/obj/Debug/net8.0/WeatherA.58898938.Up2Date
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/obj/Debug/net8.0/WeatherApplication.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/obj/Debug/net8.0/refint/WeatherApplication.dll
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/obj/Debug/net8.0/WeatherApplication.pdb
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/obj/Debug/net8.0/WeatherApplication.genruntimeconfig.cache
+/Users/sedakirakosyan/Desktop/WeatherApplication/WeatherApplication/obj/Debug/net8.0/ref/WeatherApplication.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\appsettings.json
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\WeatherApplication.staticwebassets.runtime.json
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\WeatherApplication.exe
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\WeatherApplication.deps.json
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\WeatherApplication.runtimeconfig.json
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\WeatherApplication.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\WeatherApplication.pdb
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\WeatherApplication.Data.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\bin\Debug\net8.0\WeatherApplication.Data.pdb
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\obj\Debug\net8.0\WeatherApplication.csproj.AssemblyReference.cache
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\obj\Debug\net8.0\WeatherApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\obj\Debug\net8.0\WeatherApplication.AssemblyInfoInputs.cache
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\obj\Debug\net8.0\WeatherApplication.AssemblyInfo.cs
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\obj\Debug\net8.0\WeatherApplication.csproj.CoreCompileInputs.cache
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\obj\Debug\net8.0\WeatherApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\obj\Debug\net8.0\staticwebassets\msbuild.WeatherApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\obj\Debug\net8.0\staticwebassets\msbuild.build.WeatherApplication.props
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WeatherApplication.props
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WeatherApplication.props
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\obj\Debug\net8.0\scopedcss\bundle\WeatherApplication.styles.css
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\obj\Debug\net8.0\scopedcss\projectbundle\WeatherApplication.bundle.scp.css
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\obj\Debug\net8.0\WeatherA.58898938.Up2Date
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\obj\Debug\net8.0\WeatherApplication.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\obj\Debug\net8.0\refint\WeatherApplication.dll
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\obj\Debug\net8.0\WeatherApplication.pdb
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\obj\Debug\net8.0\WeatherApplication.genruntimeconfig.cache
+C:\Users\Envy\OneDrive\Рабочий стол\WeatherApplication\WeatherApplication\obj\Debug\net8.0\ref\WeatherApplication.dll

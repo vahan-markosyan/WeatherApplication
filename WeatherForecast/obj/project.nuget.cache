@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "uwf7t7Fw1SKYzI5hyfD396xwd9Yr0qZy8OqeRwd7B6mhLAri90kw5WtMtp4YGUcGfAn0O9wDRb2oQNXkN3qCYQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Envy\\OneDrive\\Рабочий стол\\WeatherApplication\\WeatherApplication.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Envy\\OneDrive\\Рабочий стол\\WeatherApplication.Data\\WeatherApplication.Data.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Envy\\OneDrive\\Рабочий стол\\WeatherApplication.Data\\WeatherApplication.Data.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

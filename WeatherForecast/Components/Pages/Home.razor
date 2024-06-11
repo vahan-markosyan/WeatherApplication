@@ -1,0 +1,145 @@
+﻿@page "/"
+@inject Services.WeatherService WeatherService
+@using WeatherApplication.Data.Entities
+
+@rendermode InteractiveServer
+
+<PageTitle>Home</PageTitle>
+
+<h1>Welcome to your new app.</h1>
+
+<div class="mb-3">
+    <label for="cityDropdown" class="form-label">Select City:</label>
+    <select class="form-select" id="cityDropdown" @bind="SelectedCity">
+        @foreach (var city in Cities)
+        {
+            <option value="@city">@city</option>
+        }
+    </select>
+</div>
+
+<button class="btn btn-primary btn-lg" style="width: 100%; height: 40px; text-align: center; font-size: 16px" @onclick="@UpdateWeather" disabled="@IsUpdating">Update Weather
+    @if (IsUpdating)
+    {
+        <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+        <span class="ms-2">Updating Weather Data</span>
+    }
+</button>
+
+@if (!string.IsNullOrEmpty(ErrorMessage))
+{
+    <p class="text-danger">Error: @ErrorMessage</p>
+}
+
+@if (IsUpdating)
+{
+    <p class="text-info">Updating weather data...</p>
+}
+
+@if (IsSuccess)
+{
+    <p class="text-success">Weather data updated successfully!</p>
+}
+
+@if (WeatherData != null)
+{
+    <div class="row">
+        <div class="col-md-8">
+            <div class="row">
+                <div class="col-md-6">
+                    <p style="font-size: 100px">@(WeatherData.main.temp >= 0 ? "+" : "-")@Math.Abs(Math.Floor(WeatherData.main.temp))°C</p>
+                    <p><strong>Feels like: </strong>@Math.Floor(WeatherData.main.feels_like)°C</p>
+                    <p><strong>Humidity: </strong>@WeatherData.main.humidity</p>
+                </div>
+                <div class="col-md-6">
+                    <img src="/img/weather-icon.jpg" alt="Temperature Image" class="img-fluid mb-3">
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+
+
+@code {
+    private string SelectedCity { get; set; }
+    private List<string> Cities { get; set; } = new List<string> { 
+    "London", "Paris", "Moscow", "New York", "Tokyo", "Berlin", "Sydney", "Rome", 
+    "Dubai", "Toronto", "Los Angeles", "Madrid", "Beijing", "Istanbul", "Mumbai", 
+    "Singapore", "Seoul", "Mexico City", "Bangkok", "Amsterdam", "Vienna", "Hong Kong", 
+    "Athens", "Stockholm", "Cairo", "Oslo", "Buenos Aires", "Kuala Lumpur", "Warsaw", 
+    "Jakarta", "Prague", "Brussels", "Dublin", "Zurich", "Lisbon", "Helsinki", 
+    "Copenhagen", "Montreal", "Barcelona", "Melbourne", "Budapest", "Shanghai", 
+    "St. Petersburg", "Venice", "Edinburgh", "Dubrovnik", "Florence", "Krakow",
+    "San Francisco", "Vancouver", "Bangalore", "Dublin", "Vienna", "Munich", 
+    "Nairobi", "Cape Town", "Rio de Janeiro", "São Paulo", "Lima", "Bogotá",
+    "Manila", "Ho Chi Minh City", "Hanoi", "Phnom Penh", "Colombo", "Kathmandu", 
+    "Tehran", "Baghdad", "Riyadh", "Jeddah", "Abu Dhabi", "Doha", "Kuwait City", 
+    "Jerusalem", "Tel Aviv", "Amman", "Copenhagen", "Oslo", "Helsinki", 
+    "Stockholm", "Copenhagen", "Oslo", "Helsinki", "Stockholm", "Copenhagen", 
+    "Oslo", "Helsinki", "Stockholm", "Copenhagen", "Oslo", "Helsinki", 
+    "Stockholm", "Copenhagen", "Oslo", "Helsinki", "Stockholm", "Copenhagen", 
+    "Oslo", "Helsinki", "Stockholm", "Copenhagen", "Oslo", "Helsinki", 
+    "Stockholm", "Copenhagen", "Oslo", "Helsinki", "Stockholm", "Copenhagen", 
+    "Oslo", "Helsinki", "Stockholm", "Copenhagen", "Oslo", "Helsinki", 
+    "Stockholm", "Copenhagen", "Oslo", "Helsinki", "Stockholm", "Copenhagen", 
+    "Oslo", "Helsinki", "Stockholm", "Copenhagen", "Oslo", "Helsinki", 
+    "Stockholm", "Copenhagen", "Oslo", "Helsinki", "Stockholm", "Copenhagen", 
+    "Oslo", "Helsinki", "Stockholm", "Copenhagen", "Oslo", "Helsinki", 
+    "Stockholm", "Copenhagen", "Oslo", "Helsinki", "Stockholm", "Copenhagen", 
+    "Oslo", "Helsinki", "Stockholm", "Copenhagen", "Oslo", "Helsinki", 
+    "Stockholm", "Copenhagen", "Oslo", "Helsinki", "Stockholm", "Copenhagen", 
+    "Oslo", "Helsinki", "Stockholm", "Copenhagen", "Oslo", "Helsinki", 
+    "Stockholm", "Copenhagen", "Oslo", "Helsinki", "Stockholm", "Copenhagen", 
+    "Oslo", "Helsinki", "Stockholm", "Copenhagen", "Oslo", "Helsinki", 
+    "Stockholm", "Copenhagen", "Oslo", "Helsinki", "Stockholm", "Copenhagen", 
+    "Oslo", "Helsinki", "Stockholm", "Copenhagen", "Oslo", "Helsinki", 
+    "Stockholm", "Copenhagen", "Oslo", "Helsinki", "Stockholm", "Copenhagen", 
+    "Oslo", "Helsinki", "Stockholm", "Copenhagen", "Oslo", "Helsinki", 
+    "Stockholm", "Copenhagen", "Oslo", "Helsinki", "Stockholm", "Copenhagen", 
+    "Oslo", "Helsinki", "Stockholm", "Copenhagen", "Oslo", "Helsinki", 
+    "Stockholm", "Copenhagen", "Oslo", "Helsinki", "Stockholm", "Copenhagen", 
+    "Oslo", "Helsinki", "Stockholm", "Copenhagen", "Oslo", "Helsinki", 
+    "Stockholm", "Copenhagen", "Oslo", "Helsinki", "Stockholm", "Copenhagen", 
+    "Oslo", "Helsinki", "Stockholm", "Copenhagen", "Oslo", "Helsinki", 
+    "Stockholm", "Copenhagen", "Oslo", "Helsinki", "Stockholm", "Copenhagen", 
+    "Oslo", "Helsinki", "Stockholm", "Copenhagen", "Oslo", "Helsinki", 
+    "Stockholm", "Copenhagen", "Oslo", "Helsinki", "Stockholm", "Copenhagen", 
+    "Oslo", "Helsinki", "Stockholm", "Copenhagen", "Oslo", "Helsinki", 
+    "Stockholm", "Copenhagen", "Oslo", "Helsinki", "Stockholm", "Copenhagen", 
+    "Oslo", "Helsinki", "Stockholm", "Copenhagen", "Oslo", "Helsinki", 
+    "Stockholm", "Copenhagen", "Oslo", "Helsinki", "Stockholm", "Copenhagen", 
+    "Oslo", "Helsinki", "Stockholm", "Copenhagen", "Oslo", "Helsinki", 
+    "Stockholm", "Copenhagen", "Oslo", "Helsinki", "Stockholm", "Copenhagen", 
+    "Oslo", "Helsinki", "Stockholm", "Copenhagen", "Oslo", "Helsinki", 
+    "Stockholm", "Copenhagen", "Oslo", "Helsinki", "Stockholm", "Copenhagen", "Dilijan", "Yerevan"
+};
+
+}
+@code {
+    private bool IsUpdating { get; set; } = false;
+    private bool IsSuccess { get; set; } = false;
+    private string ErrorMessage { get; set; }
+    private Root WeatherData { get; set; }
+
+    private async Task UpdateWeather()
+    {
+        try
+        {
+            IsUpdating = true;
+            WeatherData= await WeatherService.MakeApiCallAndSaveToDb(SelectedCity);
+            if (WeatherData is not null)
+            {
+                IsSuccess = true; // Set flag to indicate success
+            }
+        }
+        catch (Exception ex)
+        {
+            ErrorMessage = ex.Message; // Set error message
+        }
+        finally
+        {
+            IsUpdating = false; // Reset loading indicator
+        }
+    }
+}
